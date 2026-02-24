@@ -1,0 +1,75 @@
+.complet-page {
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+        padding-bottom: 100px;
+    margin: 50px
+}
+.complet-page h1 {
+    font-family: sans-serif;
+}
+
+.success-icon {
+    animation: pop-in 0.6s ease-out forwards,pulse 1.8s ease-in-out infinite 0.6s;
+    position: relative;
+}
+@keyframes pop-in {
+    0% {
+        transform: scale(0.2);
+        opacity: 0;
+    }
+    70%{
+        transform: scale(1.1);
+        opacity: 1;
+ 
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.06);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+/**
+
+0%
+scale(0.2);
+opacity: 0;
+
+
+L’icona:
+
+è molto piccola
+
+invisibile
+
+👉 Effetto: “nasce dal centro”
+
+70%
+scale(1.1);
+opacity: 1;
+
+
+diventa leggermente più grande del normale
+
+completamente visibile
+
+👉 Questo overshoot dà un feeling elastico / moderno
+(usato tantissimo in UI premium)
+
+100%
+scale(1);
+
+
+torna alla dimensione corretta
+*/

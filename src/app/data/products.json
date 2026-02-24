@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Semi di Basilico Genovese",
+    "description": "Semi biologici di basilico, ideali per coltivazione in vaso o in giardino.",
+    "category": "seeds",
+    "price": 2.99,
+    "rating": 4.7,
+    "image": "/Semi-Basilico-Genovese.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Semi di Pomodoro Ciliegino",
+    "description": "Varietà produttiva di pomodoro ciliegino, resistente e saporita.",
+    "category": "seeds",
+    "price": 3.49,
+    "rating": 4.6,
+    "image": "/Semi-Pomodoro-Ciliegino.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pala da Giardinaggio in Acciaio",
+    "description": "Pala robusta in acciaio inox con manico ergonomico.",
+    "category": "tools",
+    "price": 12.9,
+    "rating": 4.5,
+    "image": "/Pala-Giardinaggio-Acciaio.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Forbici da Potatura Professionali",
+    "description": "Forbici affilate per potatura precisa di piante e arbusti.",
+    "category": "tools",
+    "price": 18.5,
+    "rating": 4.8,
+    "image": "/Forbici-Potatura-Professionali.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Vaso in Terracotta 30cm",
+    "description": "Vaso traspirante in terracotta, ideale per piante aromatiche.",
+    "category": "pots-soil",
+    "price": 9.99,
+    "rating": 4.4,
+    "image": "/Vaso-Terracotta-30cm.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Terriccio Universale Bio 20L",
+    "description": "Terriccio universale biologico adatto a tutte le piante.",
+    "category": "pots-soil",
+    "price": 7.5,
+    "rating": 4.6,
+    "image": "/Terriccio-Universale-Bio.jpg"
+  }
+]

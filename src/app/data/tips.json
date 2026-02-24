@@ -1,0 +1,108 @@
+[
+  {
+    "slug":"plants-that-thrive-low-light",
+    "title":"Plants Tha Thrive in Low Light",
+    "excerpt":"Snake plant, ZZ plant and pothos grow well with little sunlight.",
+    "image":"/low-light.jpg",
+    "content":"Low-light plants are ideal for apartments and offices,Snake plants,pothos, and ZZ plants can survive with minimal sunlight,making them perfect for rooms without direct window."
+  },
+{
+    "slug": "best-watering-schedule",
+    "title": "Best Watering Schedule",
+    "excerpt": "Water only when the top inch of soil feels dry.",
+    "image": "/watering.jpg",
+    "content": "Overwatering is the most common mistake in plant care. Always check the soil before watering. If the top layer is dry, it’s time to water; if not, wait a bit longer."
+  },
+  {
+    "slug": "how-to-care-for-succulents",
+    "title": "How to Care for Succulents",
+    "excerpt": "Use well-draining soil and avoid frequent watering.",
+    "image": "/succulents.jpg",
+    "content": "Succulents store water in their leaves and need infrequent watering. Use cactus soil and pots with drainage holes to prevent root rot."
+  },
+  {
+    "slug": "importance-of-drainage-holes",
+    "title": "Why Drainage Holes Matter",
+    "excerpt": "Good drainage prevents root rot and plant diseases.",
+    "image": "/drainage.jpg",
+    "content": "Pots without drainage holes trap excess water, causing roots to rot. Always choose pots with drainage or add a drainage layer at the bottom."
+  },
+  {
+    "slug": "how-to-increase-humidity",
+    "title": "How to Increase Humidity for Plants",
+    "excerpt": "Some plants need more humidity to thrive.",
+    "image": "/humidity.jpg",
+    "content": "Tropical plants like Calathea and Ferns prefer higher humidity. You can increase humidity by misting leaves, using a humidifier, or placing a tray of water nearby."
+  },
+  {
+    "slug": "signs-of-overwatering",
+    "title": "Signs You Are Overwatering",
+    "excerpt": "Yellow leaves and soggy soil are warning signs.",
+    "image": "/overwatering.jpg",
+    "content": "Overwatered plants often show yellowing leaves, drooping, and moldy soil. Reduce watering and ensure proper drainage to help the plant recover."
+  },
+  {
+    "slug": "signs-of-underwatering",
+    "title": "Signs You Are Underwatering",
+    "excerpt": "Dry soil and wilting leaves mean your plant needs water.",
+    "image": "/underwatering.jpg",
+    "content": "When plants lack water, leaves may curl, wilt, or turn brown at the edges. Water thoroughly until excess water drains from the pot."
+  },
+  {
+    "slug": "repotting-when-and-why",
+    "title": "When and Why to Repot Plants",
+    "excerpt": "Repot when roots outgrow the container.",
+    "image": "/repotting.jpg",
+    "content": "Repot plants every 1–2 years or when roots come out of drainage holes. This gives roots more space and refreshes nutrients in the soil."
+  },
+  {
+    "slug": "choosing-the-right-soil",
+    "title": "Choosing the Right Soil",
+    "excerpt": "Different plants need different soil types.",
+    "image": "/soil.jpg",
+    "content": "Succulents prefer sandy soil, while tropical plants need rich, well-draining soil. Using the correct soil improves plant health and growth."
+  },
+  {
+    "slug": "cleaning-plant-leaves",
+    "title": "Why You Should Clean Plant Leaves",
+    "excerpt": "Clean leaves help plants photosynthesize better.",
+    "image": "/clean-leaves.jpg",
+    "content": "Dust on leaves blocks sunlight. Gently wipe leaves with a damp cloth every few weeks to keep plants healthy and shiny."
+  },
+  {
+    "slug": "pet-friendly-plants",
+    "title": "Pet-Friendly Plants",
+    "excerpt": "Choose plants that are safe for cats and dogs.",
+    "image": "/pet-friendly.jpg",
+    "content": "Some common plants are toxic to pets. Safe options include Spider Plant, Areca Palm, and Calathea. Always check toxicity before buying."
+  },
+  {
+    "slug": "fertilizing-basics",
+    "title": "Fertilizing Basics",
+    "excerpt": "Plants need nutrients to grow strong.",
+    "image": "/fertilizer.jpg",
+    "content": "Use a balanced fertilizer during the growing season (spring and summer). Avoid over-fertilizing, which can damage roots."
+  },
+  {
+    "slug": "rotating-plants-for-even-growth",
+    "title": "Rotate Plants for Even Growth",
+    "excerpt": "Turning pots helps plants grow evenly.",
+    "image": "/rotate.jpg",
+    "content": "Plants grow toward light sources. Rotate pots every few weeks to prevent leaning and encourage balanced growth."
+  },
+  {
+    "slug": "seasonal-plant-care",
+    "title": "Seasonal Plant Care Tips",
+    "excerpt": "Plants have different needs in each season.",
+    "image": "/seasons.jpg",
+    "content": "In winter, most plants need less water and no fertilizer. In spring and summer, increase watering and feeding as growth resumes."
+  },
+  {
+    "slug": "common-indoor-plant-pests",
+    "title": "Common Indoor Plant Pests",
+    "excerpt": "Learn how to spot and treat pests early.",
+    "image": "/pests.jpg",
+    "content": "Common pests include spider mites, aphids, and fungus gnats. Inspect leaves regularly and treat infestations early with natural remedies or insecticidal soap."
+  }
+
+]

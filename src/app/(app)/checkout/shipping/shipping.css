@@ -1,0 +1,121 @@
+.shipping-page {
+    margin: 3rem;
+    display: flex;
+    padding: 3rem;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+}
+.shipping-form {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.shipping-form label {
+        gap: 15px;
+    display: flex;
+text-align: center;
+color: #777777;
+    align-items: center;
+
+}
+input {
+        padding: 1rem 2rem;
+    background-color: transparent;
+    border: 2px solid #388e4a;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+.shipping-form select {
+        padding: 2px;
+    border-radius: 8px;
+    background-color: transparent;
+    cursor: pointer;
+}
+.custom-checkbox {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: 10px;
+    user-select: none; /*cosa signfica*/
+    font-size: 16px;
+}
+.custom-checkbox input {
+    display: none;
+}
+
+.custom-checkbox .checkmark {
+    width: 22px;
+    height: 22px;
+    border: 2px solid #333;
+    border-radius: 4px;
+    position: relative;
+    transition: all 0.2s ease;
+    background-color: white;
+}
+.custom-checkbox .checkmark::after {
+    content: "";
+    position: absolute;
+    left: 6px;
+   top: 2px;
+   width: 6px;
+   height: 12px;
+   border: solid green;
+   border-width: 0 2px 2px 0;
+   transform: rotate(45deg) scale(0);
+   opacity: 0;
+   transition: all 0.2s ease;
+}
+.custom-checkbox input {
+    display: none;
+}
+.custom-checkbox .checkmark {
+    width: 22px;
+    height: 22px;
+    border: 2px solid #333;
+    border-radius: 4px;
+    position: relative;
+    transition: all 0.2s ease;
+    background-color: white;
+}
+.custom-checkbox .checkmark::after {
+    content: "";
+    position: absolute;
+    left: 6px;
+    top: 2px;
+    width: 6px;
+    height: 12px;
+    border: solid green;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg) scale(0);
+    opacity: 0;
+    transition: all 0.2s ease;
+}
+/**quando checkbox è selezionato*/
+.custom-checkbox input:checked + .checkmark::after {
+    transform: rotate(45deg) scale(1);
+    opacity: 1;
+}
+.custom-checkbox input:checked + .checkmark {
+    background-color: #e6ffe6;
+}
+.checkout-btn {
+        padding: 23px 63px;
+    color: white;
+    background-color: #388e4a;
+    border-radius: 13px;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    margin: 10px auto;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+.checkout-btn:hover {
+    background-color: transparent;
+    color: #2e8b57;
+    border: 1px solid #2e8b57;
+}
