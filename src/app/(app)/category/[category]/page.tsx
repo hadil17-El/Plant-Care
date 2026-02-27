@@ -11,9 +11,6 @@ export default  async function CategoryPage({
  return <CategoryClient  category={(await params).category} />
 }
 
-function useParams(): { category: any } {
-    throw new Error("Function not implemented.")
-}
 
 /**
  * Property 'category' does not exist on type '{}'
