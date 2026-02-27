@@ -9,7 +9,7 @@ export interface Plant {
     last_watered: string;
     water_interval: number;
     tip: string;
-    price: string;
+    price: number;
     category: string
     rating:number;
     isFavorite: boolean

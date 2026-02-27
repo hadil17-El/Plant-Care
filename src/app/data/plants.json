@@ -15,7 +15,7 @@
     "water_interval":2,
     "health":"good",
     "category":"indoor",
-        "price":"11.2",
+        "price":11.2,
          "rating":4.7,
     "tip":"Ama un terreno leggerment umido ma ben drenato.",
     "isFavorite": false
@@ -37,7 +37,7 @@
     "health":"warning",
     "category":"indoor",
     "rating":4.7,
-        "price":"11.2",
+        "price":11.2,
     "tip":"Non far mai asciugare completament il terreno."
   
   ,
@@ -60,7 +60,7 @@
     "health":"good",
     "category":"indoor",
      "rating":4.7,
-        "price":"11.2",
+        "price":11.2,
     "tip":"Evita ristagni:èla causa principale dei problemi."
   ,
     "isFavorite": false
@@ -82,7 +82,7 @@
     "health":"good",
        "rating":4.7,
     "category":"indoor",
-        "price":"11.2",
+        "price":11.2,
     "tip":"Meglio poca acqua che troppa."
     ,
     "isFavorite": false
@@ -103,7 +103,7 @@
     "water_interval":10,
     "health":"excellent",
     "category":"indoor",
-        "price":"11.2",
+        "price":11.2,
         "rating":4.7,
     "tip":"Non anniffiarla troppo, rischia marciumi",
     "isFavorite": false
@@ -124,7 +124,7 @@
     "water_interval":2,
     "health":"warning",
     "category":"indoor",
-        "price":"11.2",
+        "price":11.2,
          "rating":4.7,
     "tip":"Nebulizza le foglie se l'aria è secca",
     "isFavorite": false
@@ -145,7 +145,7 @@
     "water_interval":4,
     "health":"good",
     "category":"indoor",
-        "price":"11.2",
+        "price":11.2,
           "rating":4.7,
     "tip":"Terrreno secco= lavanda felice.",
     "isFavorite": false
@@ -166,7 +166,7 @@
     "water_interval":7,
     "health":"excellent",
     "category":"indoor",
-        "price":"11.2",
+        "price":11.2,
          "rating":4.7,
     "tip":"Perfetta vicino a una finestra molto luminosa."
   
@@ -188,7 +188,7 @@
     "water_interval":1,
     "category":"indoor",
     "health":"warning",
-     "price":"11.2",
+     "price":11.2,
     "rating":4.7,
     "tip":"Non far mai asciugare completament il terreno."
   
@@ -211,7 +211,7 @@
     "water_interval": 12,
     "health":"excellent",
     "category":"indoor",
-    "price":"11.2",
+    "price":11.2,
     "rating":4.7,
     "tip":"Troppa acqua è l'unico vero nemico.",
     "isFavorite": false
@@ -232,7 +232,7 @@
     "water_interval": 2,
     "health": "good",
     "category": "outdoor",
-    "price": "12.5",
+    "price": 12.5,
     "rating": 4.8,
     "tip": "Rimuovi i fiori secchi per stimolare nuove fioriture.",
     "isFavorite": false
@@ -253,7 +253,7 @@
     "water_interval": 2,
     "health": "good",
     "category": "outdoor",
-    "price": "18.0",
+    "price": 18.0,
     "rating": 4.7,
     "tip": "Mantieni il terreno umido soprattutto in estate.",
     "isFavorite": false
@@ -274,7 +274,7 @@
     "water_interval": 3,
     "health": "excellent",
     "category": "outdoor",
-    "price": "22.0",
+    "price": 22.0,
     "rating": 4.9,
     "tip": "Evita ristagni: fiorisce meglio con irrigazioni moderate.",
     "isFavorite": false
@@ -295,7 +295,7 @@
     "water_interval": 3,
     "health": "good",
     "category": "outdoor",
-    "price": "10.5",
+    "price": 10.5,
     "rating": 4.6,
     "tip": "Potala regolarmente per controllarne la crescita.",
     "isFavorite": false
@@ -316,7 +316,7 @@
     "water_interval": 4,
     "health": "excellent",
     "category": "outdoor",
-    "price": "19.0",
+    "price": 19.0,
     "rating": 4.8,
     "tip": "Perfetto in zone molto soleggiate e ventilate.",
     "isFavorite": false
