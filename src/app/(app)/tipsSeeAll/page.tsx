@@ -1,3 +1,4 @@
+"use client"
 import Link from "next/link"
 import tips from "@/app/data/tips.json"
 import "./tips.css"
