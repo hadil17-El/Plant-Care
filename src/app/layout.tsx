@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { FavoritesProvider } from "./context/FavoritesContext";
 import { CartProvider } from "./context/CartContext";
@@ -33,3 +32,4 @@ export default function RootLayout({
   );
 }
 //git push -f origin main
+//git push -u origin main perche -u collega main(local) al origin(github)
